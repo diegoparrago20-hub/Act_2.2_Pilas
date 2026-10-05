@@ -8,17 +8,17 @@ LIRA DOMINGUEZ BRYANT
 
 PARRA GONZALEZ DIEGO ALBERTO
 
-#Objetivo
+# Objetivo
 
 Implementar y comprender el funcionamiento de una estructura de datos Pila basada en nodos, aplicando el principio LIFO (Last In, First Out), donde el último elemento en entrar es el primero en salir.
 
-#Tecnologías utilizadas
+# Tecnologías utilizadas
 Java
 Java Swing
 Apache NetBeans
 Git y GitHub
 
-#Operaciones de la pila
+# Operaciones de la pila
 Apilar (Push): Agrega un nuevo elemento en la parte superior de la pila.
 Desapilar (Pop): Elimina y devuelve el elemento que se encuentra en la parte superior.
 Consultar Tope (Peek): Muestra el elemento que está en la parte superior sin eliminarlo.
@@ -26,7 +26,7 @@ Está Vacía (IsEmpty): Comprueba si la pila no contiene elementos.
 Tamaño (Size): Muestra la cantidad de elementos almacenados.
 Vaciar Pila (Clear): Elimina todos los elementos de la pila.
 
-#Estructura del proyecto
+# Estructura del proyecto
 
 El proyecto se organiza en tres partes principales:
 Modelo de dominio: Representa los elementos que se almacenarán en la pila.
@@ -34,7 +34,7 @@ Nodo: Almacena un elemento y una referencia al siguiente nodo.
 Pila: Administra los nodos y contiene las operaciones correspondientes.
 Interfaz gráfica: Permite interactuar con la pila mediante botones y visualizar su contenido.
 
-#Interfaz gráfica
+# Interfaz gráfica
 
 La interfaz fue diseñada en Java Swing y contiene:
 Campos para ingresar el nombre y la descripción del elemento.
